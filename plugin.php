@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Plugin Name: Breakdance Custom Elements
- * Plugin URI: https://breakdance.com/
- * Description: Boilerplate plugin to save your custom elements created with Element Studio.
- * Author: Breakdance
- * Author URI: https://breakdance.com/
+ * Plugin Name: Štormas Elements
+ * Plugin URI: https://www.štormas.lt
+ * Description: Element Studio Custom elements for Breakdance.
+ * Author: Štormas
+ * Author URI: https://www.štormas.lt
  * License: GPLv2
  * Text Domain: breakdance
  * Domain Path: /languages/
